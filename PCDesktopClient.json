@@ -11319,6 +11319,8 @@
     "FFlagEnableUpsellSuggestionsAPIV2": true,
     "DFFlagFlagRolloutTestDynamicBool1_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-02T21:57:01",
     "FStringFlagRolloutTestStaticString1_Staged": "Static03092025;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-02T21:57:01",
+    "DFFlagFlagRolloutTestDynamicBool24_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-02T23:13:26",
+    "FFlagFlagRolloutTestStaticBool27_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-02T23:13:26",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -12197,8 +12199,8 @@
     "FFlagEnableBrowserNativeWindowLayout2": true,
     "FFlagTextureUseACR5": true,
     "FFlagChatOptimizeCommandProcessing_IXP": "1;ChatWindow.Performance;FFlagChatOptimizeCommandProcessing;288906352;flagbank",
-    "FStringFlagRepoGitHashFastString": "c4d6a1bad12a8c03deff59c0778387bed97278d4",
-    "DFStringFlagRepoGitHashDynamicString": "c4d6a1bad12a8c03deff59c0778387bed97278d4",
-    "FStringFlipTimeStampFastString": "2025-07-02T22:08:58.959Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-02T22:08:58.959Z"
+    "FStringFlagRepoGitHashFastString": "ace5b42436ccf77c530d10a762ac1a34e9bfa8b3",
+    "DFStringFlagRepoGitHashDynamicString": "ace5b42436ccf77c530d10a762ac1a34e9bfa8b3",
+    "FStringFlipTimeStampFastString": "2025-07-02T23:16:20.963Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-02T23:16:20.963Z"
 }
