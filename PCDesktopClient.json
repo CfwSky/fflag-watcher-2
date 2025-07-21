@@ -11704,7 +11704,7 @@
     "FFlagCheckRenderMeshOOB5_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-21T18:36:30",
     "FFlagIsWrapLayerEnabledRefactor_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-21T18:36:30",
     "DFIntVoiceChatRetryBackoffInitialDelayMs_Staged": "600;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-21T18:37:40",
-    "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
+    "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "DFFlagFixAccoutrementWeldCreationForCameras_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-21T18:46:18",
     "FFlagSduiCarouselVirtualizationProp": true,
     "FFlagSduiOmniFeedItemLogDelay": true,
@@ -11728,7 +11728,7 @@
     "FFlagFFlagSignupLogoAspectRatioFix": true,
     "FFlagReportAvailableDownloadZeroSize": true,
     "FFlagNewCameraControls_IgnoreScrollDuringMmb": true,
-    "FFlagEnableTempFixCollectibleBundlePurchase": true,
+    "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": true,
     "FFlagEnableAdsMouseUnlock": true,
@@ -12666,8 +12666,8 @@
     "DFFlagPerformanceControlAddNormalizedQualityToST2": true,
     "FFlagPerformanceControlAveragedQuality3": true,
     "FFlagRenderUnifiedLighting16": true,
-    "FStringFlagRepoGitHashFastString": "4ede62f4637bcc0e4f393d984aae20985900cec2",
-    "DFStringFlagRepoGitHashDynamicString": "4ede62f4637bcc0e4f393d984aae20985900cec2",
-    "FStringFlipTimeStampFastString": "2025-07-21T19:22:48.140Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-21T19:22:48.140Z"
+    "FStringFlagRepoGitHashFastString": "eae01389ace169c855c541fdbbc3470c88ee347e",
+    "DFStringFlagRepoGitHashDynamicString": "eae01389ace169c855c541fdbbc3470c88ee347e",
+    "FStringFlipTimeStampFastString": "2025-07-21T19:24:33.070Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-21T19:24:33.070Z"
 }
