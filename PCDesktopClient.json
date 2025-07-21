@@ -11730,6 +11730,7 @@
     "DFIntVoiceChatRetryBackoffInitialDelayMs": 600,
     "DFIntVoiceChatControlPlaneOperationRetryLimit": 15,
     "FFlagRSVPPromptUseConsistentBadgeComponent": true,
+    "FFlagAmrSaveConfig3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-21T19:43:34",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": true,
     "FFlagEnableAdsMouseUnlock": true,
@@ -12665,8 +12666,8 @@
     "DFFlagPerformanceControlAddNormalizedQualityToST2": true,
     "FFlagPerformanceControlAveragedQuality3": true,
     "FFlagRenderUnifiedLighting16": true,
-    "FStringFlagRepoGitHashFastString": "19c023f3f5d01107ea1564c059b7e226259888c9",
-    "DFStringFlagRepoGitHashDynamicString": "19c023f3f5d01107ea1564c059b7e226259888c9",
-    "FStringFlipTimeStampFastString": "2025-07-21T19:42:06.792Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-21T19:42:06.792Z"
+    "FStringFlagRepoGitHashFastString": "7b4ab5309e062da9c94f6e15a81d95374a1eab9d",
+    "DFStringFlagRepoGitHashDynamicString": "7b4ab5309e062da9c94f6e15a81d95374a1eab9d",
+    "FStringFlipTimeStampFastString": "2025-07-21T19:44:33.472Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-21T19:44:33.472Z"
 }
