@@ -9595,7 +9595,7 @@
     "DFFlagWriteOnlyBufferNoExcept": true,
     "FFlagSQLiteCacheSizePagesLowEndEnable": true,
     "FFlagDevFrameworkMarkdownErrorHandling": true,
-    "FFlagLuaStartPageTableContextMenu": false,
+    "FFlagLuaStartPageTableContextMenu": true,
     "DFStringCrashUploadToBacktraceIOSPlayerToken": "35ada14dcc8b35ec14f5733589fcee7c6b31dc97820629fbf175223ae5042ad1",
     "FFlagUGCValidatePropertiesRefactor2": true,
     "FFlagRefactorBodyAttachmentOrientationsCheck": false,
@@ -11502,8 +11502,6 @@
     "FFlagSendServerStateToMatchMaking": true,
     "FFlagSendUserDisconnectOnShutdown": true,
     "FFlagEnableOutOfMemoryGraphicsCrashReason2": true,
-    "FFlagDevFrameworkFixMissingKeyErrors_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-31T18:12:30",
-    "FFlagLuaStartPageTableContextMenu_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-31T18:13:08",
     "FFlagCollectAUAnalytics": false,
     "FFlagAXAppSystemBarEnableTelemtryForFPSForAll": true,
     "DFIntJoinLimitWin32x64_Staged": "683;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-31T18:34:42",
@@ -12429,8 +12427,8 @@
     "FStringSocialCaptureIXPLayer": "Social.WindowsCapture",
     "FFlagSupportMultipleQosSessionsInterfaceOnly": true,
     "FFlagGamepadPointAndClick4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-31T18:53:04",
-    "FStringFlagRepoGitHashFastString": "473c62222cf2f2b90a7098286feca3e067632e70",
-    "DFStringFlagRepoGitHashDynamicString": "473c62222cf2f2b90a7098286feca3e067632e70",
-    "FStringFlipTimeStampFastString": "2025-07-31T19:13:16.042Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-31T19:13:16.042Z"
+    "FStringFlagRepoGitHashFastString": "75e11d11f091ee865d19d79f13c87b972d519cbf",
+    "DFStringFlagRepoGitHashDynamicString": "75e11d11f091ee865d19d79f13c87b972d519cbf",
+    "FStringFlipTimeStampFastString": "2025-07-31T19:23:04.589Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-31T19:23:04.589Z"
 }
