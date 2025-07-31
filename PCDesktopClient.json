@@ -11968,6 +11968,7 @@
     "FFlagAXMigrateMainNavigationInputBindings": true,
     "DFFlagVrScreenshotCheckShouldRender": true,
     "DFIntRobloxTelemetryProductInfoBatchingValidationAnalyticsThrottleHundredthsPercent": 1,
+    "DFFlagLuauErrorYield_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-31T19:53:31",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12431,9 +12432,8 @@
     "FFlagCapturesVideoCTAExperimentEnabled_v5": true,
     "FStringSocialCaptureIXPLayer": "Social.WindowsCapture",
     "FFlagSupportMultipleQosSessionsInterfaceOnly": true,
-    "FFlagGamepadPointAndClick4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-31T18:53:04",
-    "FStringFlagRepoGitHashFastString": "95759397e35e724bbd739ad40fdb868c307cc623",
-    "DFStringFlagRepoGitHashDynamicString": "95759397e35e724bbd739ad40fdb868c307cc623",
-    "FStringFlipTimeStampFastString": "2025-07-31T19:48:23.426Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-31T19:48:23.426Z"
+    "FStringFlagRepoGitHashFastString": "1892be217ce8a0a3defe9b87b6527bf490f1c0eb",
+    "DFStringFlagRepoGitHashDynamicString": "1892be217ce8a0a3defe9b87b6527bf490f1c0eb",
+    "FStringFlipTimeStampFastString": "2025-07-31T19:58:49.786Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-31T19:58:49.786Z"
 }
