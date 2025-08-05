@@ -11673,6 +11673,7 @@
     "FFlagUseAppCommonVirtualCursorWithFixes_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-05T22:21:34",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUseRuntimeMutexClient": true,
+    "AllowVideoPreRoll": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": true,
@@ -12134,7 +12135,6 @@
     "FFlagExperienceStateCaptureSelectionBugFix": true,
     "FFlagAXAvatarsTabIXP_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-05T22:40:28",
     "FFlagSimAeroNewPreprocessingQueueCondition": true,
-    "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -12603,9 +12603,9 @@
     "FIntWindowsTouchCheckMinTouches": 3,
     "FFlagAddTouchScreenCheck": true,
     "FFlagEnableIntegratedTouchOnly2": true,
-    "FFlagTouchscreenSupport7": true,
-    "FStringFlagRepoGitHashFastString": "7da4b75cbe6f6c337c90b0ab5b4656fe9657f7e5",
-    "DFStringFlagRepoGitHashDynamicString": "7da4b75cbe6f6c337c90b0ab5b4656fe9657f7e5",
-    "FStringFlipTimeStampFastString": "2025-08-05T22:51:41.926Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-05T22:51:41.926Z"
+    "FFlagTouchscreenSupport7": false,
+    "FStringFlagRepoGitHashFastString": "d5c478e251b506ebf7945a0e209c134c09d0509d",
+    "DFStringFlagRepoGitHashDynamicString": "d5c478e251b506ebf7945a0e209c134c09d0509d",
+    "FStringFlipTimeStampFastString": "2025-08-05T22:58:24.638Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-05T22:58:24.638Z"
 }
