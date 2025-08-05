@@ -11663,7 +11663,6 @@
     "FFlagRSVPPromptMouseCursorOverride": true,
     "DFFlagIASResetsStateOnWindowFocusChanged2": true,
     "DFFlagResetGamepadMouseKeyStateOnWindowFocusChanged": true,
-    "FFlagUseRuntimeMutexClient_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-05T21:36:27",
     "FFlagReactPreventAssigningKeyToChildren_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-05T21:53:13",
     "FFlagReinviteButtonSpamClickFixEnabled": true,
     "FFlagGetBalanceInfoV2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-05T21:59:27",
@@ -11673,6 +11672,7 @@
     "FFlagEnableEconomicRestrictionInExpDevSub": true,
     "FFlagUseAppCommonVirtualCursorWithFixes_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-05T22:21:34",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
+    "FFlagUseRuntimeMutexClient": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": true,
@@ -12133,6 +12133,7 @@
     "FFlagUseWorldFromOrigin": true,
     "FFlagCheckRenderMeshOOB6_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-05T22:12:50",
     "FFlagExperienceStateCaptureSelectionBugFix": true,
+    "FFlagAXAvatarsTabIXP_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-05T22:40:28",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12603,8 +12604,8 @@
     "FFlagAddTouchScreenCheck": true,
     "FFlagEnableIntegratedTouchOnly2": true,
     "FFlagTouchscreenSupport7": true,
-    "FStringFlagRepoGitHashFastString": "e4bb0c2bfc9c93d1aaea152878582d797948e427",
-    "DFStringFlagRepoGitHashDynamicString": "e4bb0c2bfc9c93d1aaea152878582d797948e427",
-    "FStringFlipTimeStampFastString": "2025-08-05T22:42:19.147Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-05T22:42:19.147Z"
+    "FStringFlagRepoGitHashFastString": "6ad8f15d6a00727b4ddd8336ebbfa61159266bcd",
+    "DFStringFlagRepoGitHashDynamicString": "6ad8f15d6a00727b4ddd8336ebbfa61159266bcd",
+    "FStringFlipTimeStampFastString": "2025-08-05T22:47:29.245Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-05T22:47:29.245Z"
 }
