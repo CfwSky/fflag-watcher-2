@@ -12647,8 +12647,8 @@
     "FFlagEnableIntegratedTouchOnly2": true,
     "FFlagTouchscreenSupport7": false,
     "FFlagDisableVideoIneligiblePerformanceExposureLogging": true,
-    "FStringFlagRepoGitHashFastString": "c8fc2ac25ba0561b790095f58e042653a909c87a",
-    "DFStringFlagRepoGitHashDynamicString": "c8fc2ac25ba0561b790095f58e042653a909c87a",
-    "FStringFlipTimeStampFastString": "2025-08-06T23:52:18.022Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-06T23:52:18.022Z"
+    "FStringFlagRepoGitHashFastString": "2fd5c93b99c1883a3b65f4ecfdcfd8ee5b28689a",
+    "DFStringFlagRepoGitHashDynamicString": "2fd5c93b99c1883a3b65f4ecfdcfd8ee5b28689a",
+    "FStringFlipTimeStampFastString": "2025-08-07T00:01:58.538Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-07T00:01:58.538Z"
 }
