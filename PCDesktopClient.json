@@ -12694,8 +12694,8 @@
     "FFlagMovePrerender": false,
     "FFlagLuaAppSortDeeplinkFix": true,
     "FFlagLuaAppLogGameAttributionError": true,
-    "FStringFlagRepoGitHashFastString": "0ab8546a572dcdc299ea27565434a2ad8772519c",
-    "DFStringFlagRepoGitHashDynamicString": "0ab8546a572dcdc299ea27565434a2ad8772519c",
-    "FStringFlipTimeStampFastString": "2025-08-07T22:27:26.354Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-07T22:27:26.354Z"
+    "FStringFlagRepoGitHashFastString": "5f8f05f368d71cbc2661c5678fbac2161e850e71",
+    "DFStringFlagRepoGitHashDynamicString": "5f8f05f368d71cbc2661c5678fbac2161e850e71",
+    "FStringFlipTimeStampFastString": "2025-08-07T22:33:17.444Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-07T22:33:17.444Z"
 }
