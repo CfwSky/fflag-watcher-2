@@ -10424,7 +10424,7 @@
     "FFlagEnableRewardedVideoAdPlayServerToClientWithPlacementOnClient": true,
     "DFIntDynamicTranslationSenderMaxEntriesPerRemoteEvent": 100,
     "GmaSdkAppTypeFromBackend": "true",
-    "GmaSdkAppPromoClickUI2": "true",
+    "GmaSdkAppPromoClickUI2": "false",
     "DFIntDynamicTranslationSenderMaxBytesPerHttpMessage": 1000000,
     "EnableAppPromoCleanupBugFix": "true",
     "FFlagJNIMessageBusMemoryLeakFix": true,
@@ -12647,8 +12647,8 @@
     "FFlagEnableIntegratedTouchOnly2": true,
     "FFlagTouchscreenSupport7": false,
     "FFlagDisableVideoIneligiblePerformanceExposureLogging": true,
-    "FStringFlagRepoGitHashFastString": "2fd5c93b99c1883a3b65f4ecfdcfd8ee5b28689a",
-    "DFStringFlagRepoGitHashDynamicString": "2fd5c93b99c1883a3b65f4ecfdcfd8ee5b28689a",
-    "FStringFlipTimeStampFastString": "2025-08-07T00:01:58.538Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-07T00:01:58.538Z"
+    "FStringFlagRepoGitHashFastString": "27cd74a9804ed70361419e9dcae9102e3ba21729",
+    "DFStringFlagRepoGitHashDynamicString": "27cd74a9804ed70361419e9dcae9102e3ba21729",
+    "FStringFlipTimeStampFastString": "2025-08-07T00:05:16.407Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-07T00:05:16.407Z"
 }
