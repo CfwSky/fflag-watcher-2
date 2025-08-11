@@ -11806,6 +11806,7 @@
     "FFlagAXEnableCarouselItemsBasedOnFrameSize": true,
     "FFlagAXScrollingCarouselWidgetIndexBugfix": true,
     "FIntAXCarouselItemsBasedOnFrameSize": 4,
+    "FFlagAbuseReportTabRenderPerformanceFixEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-11T22:27:27",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -12762,8 +12763,8 @@
     "FFlagLuaAppLogGameAttributionError": true,
     "FFlagRecordPatchAssetsMismatch": true,
     "FIntLuaAppGameAttributionErrorEventThrottleHundrethsPercent": 10000,
-    "FStringFlagRepoGitHashFastString": "f4556b1572f4bd98284bce0bc82a831d1b765bd8",
-    "DFStringFlagRepoGitHashDynamicString": "f4556b1572f4bd98284bce0bc82a831d1b765bd8",
-    "FStringFlipTimeStampFastString": "2025-08-11T22:17:40.812Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-11T22:17:40.812Z"
+    "FStringFlagRepoGitHashFastString": "d1d9ba09c6f9de6e70eb81347b43071b30ef81d2",
+    "DFStringFlagRepoGitHashDynamicString": "d1d9ba09c6f9de6e70eb81347b43071b30ef81d2",
+    "FStringFlipTimeStampFastString": "2025-08-11T22:29:14.790Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-11T22:29:14.790Z"
 }
