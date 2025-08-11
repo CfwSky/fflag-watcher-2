@@ -11793,9 +11793,6 @@
     "FFlagBirthdayPickerConfirmSignifier": true,
     "FFlagPreventSignUpBackNav2": true,
     "FFlagSimCSGSolidMeshFixDifference": true,
-    "FFlagAXEnableCarouselItemsBasedOnFrameSize_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2128086444;2025-08-11T21:08:38",
-    "FFlagAXScrollingCarouselWidgetIndexBugfix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2128086444;2025-08-11T21:08:38",
-    "FIntAXCarouselItemsBasedOnFrameSize_Staged": "4;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2128086444;2025-08-11T21:08:38",
     "FIntAudioPlayerPlaybackButtonOffset": 0,
     "FFlagUseConfigurableReconnectWait": true,
     "DFFlagRenderUnifyTextureFallbacks": true,
@@ -11807,6 +11804,9 @@
     "FStringTextureTranscodeMajorVersion_Staged": "\"rdo1\";SteadyState;10;30;Revert;true;169562469;2025-08-11T22:01:25",
     "DFIntReportRTLSupportValueThrottleHundrethsPercent_Staged": "200;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;936419398;2025-08-11T22:03:17",
     "DFFlagDisableRaknetJoinDataStatsV1_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-11T22:05:31",
+    "FFlagAXEnableCarouselItemsBasedOnFrameSize": true,
+    "FFlagAXScrollingCarouselWidgetIndexBugfix": true,
+    "FIntAXCarouselItemsBasedOnFrameSize": 4,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -12764,8 +12764,8 @@
     "FFlagLuaAppLogGameAttributionError": true,
     "FFlagRecordPatchAssetsMismatch": true,
     "FIntLuaAppGameAttributionErrorEventThrottleHundrethsPercent": 10000,
-    "FStringFlagRepoGitHashFastString": "326910653100b179350045a0e781aed54070aa7a",
-    "DFStringFlagRepoGitHashDynamicString": "326910653100b179350045a0e781aed54070aa7a",
-    "FStringFlipTimeStampFastString": "2025-08-11T22:07:08.145Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-11T22:07:08.145Z"
+    "FStringFlagRepoGitHashFastString": "8c947a8c1ecf192317509e68c93b786dcf9b9492",
+    "DFStringFlagRepoGitHashDynamicString": "8c947a8c1ecf192317509e68c93b786dcf9b9492",
+    "FStringFlipTimeStampFastString": "2025-08-11T22:13:52.950Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-11T22:13:52.950Z"
 }
