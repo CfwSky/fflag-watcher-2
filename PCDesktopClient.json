@@ -11801,7 +11801,6 @@
     "FFlagLuaStartPageTutorialInfoTile": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagUgcValidationImproveTextureSizeErrorMessages": true,
-    "FStringTextureTranscodeMajorVersion_Staged": "\"rdo1\";SteadyState;10;30;Revert;true;169562469;2025-08-11T22:01:25",
     "DFIntReportRTLSupportValueThrottleHundrethsPercent_Staged": "200;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;936419398;2025-08-11T22:03:17",
     "DFFlagDisableRaknetJoinDataStatsV1_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-11T22:05:31",
     "FFlagAXEnableCarouselItemsBasedOnFrameSize": true,
@@ -12208,7 +12207,7 @@
     "DFFlagLimitGetFullNameParseDepth": true,
     "FFlagExpChatTargetTextChannelNeverNone": true,
     "FFlagExpChatUseUpdatedChannelBarVisible": true,
-    "DFFlagEnableBasePlayerGuiClassUsageTelemetry": false,
+    "DFFlagEnableBasePlayerGuiClassUsageTelemetry": true,
     "FFlagLuaAppUseGameTileImageHelpers": true,
     "FFlagLuaAppUseRatingFormatHelper2": true,
     "FFlagSwapAppGameTileAndSduiGameTileInRFY": true,
@@ -12289,7 +12288,6 @@
     "DFFlagMRFNonPartFix": true,
     "FFlagStudioRemoveRestrictedPlaceSessionModelSignals": true,
     "DFFlagDebugSimParentPrimReplicationRoot": false,
-    "DFFlagEnableBasePlayerGuiClassUsageTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-11T21:13:43",
     "DFFlagCDCTransformNotIdentityCrash_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2039528945;2025-08-11T22:00:44",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
@@ -12764,8 +12762,8 @@
     "FFlagLuaAppLogGameAttributionError": true,
     "FFlagRecordPatchAssetsMismatch": true,
     "FIntLuaAppGameAttributionErrorEventThrottleHundrethsPercent": 10000,
-    "FStringFlagRepoGitHashFastString": "8c947a8c1ecf192317509e68c93b786dcf9b9492",
-    "DFStringFlagRepoGitHashDynamicString": "8c947a8c1ecf192317509e68c93b786dcf9b9492",
-    "FStringFlipTimeStampFastString": "2025-08-11T22:13:52.950Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-11T22:13:52.950Z"
+    "FStringFlagRepoGitHashFastString": "f4556b1572f4bd98284bce0bc82a831d1b765bd8",
+    "DFStringFlagRepoGitHashDynamicString": "f4556b1572f4bd98284bce0bc82a831d1b765bd8",
+    "FStringFlipTimeStampFastString": "2025-08-11T22:17:40.812Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-11T22:17:40.812Z"
 }
