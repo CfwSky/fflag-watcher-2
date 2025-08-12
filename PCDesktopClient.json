@@ -11808,6 +11808,7 @@
     "FFlagAnnotationsWaitForDMLoad": true,
     "FFlagAXFixOvercountingTopLevelCounters": true,
     "FFlagBodyColorsViewButtonLargeTextFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1672165149;2025-08-12T17:05:28",
+    "FFlagUGCValidationValidateRigidAccessoryAllowed_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-12T17:09:49",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -12766,8 +12767,8 @@
     "FFlagLuaAppLogGameAttributionError": true,
     "FFlagRecordPatchAssetsMismatch": true,
     "FIntLuaAppGameAttributionErrorEventThrottleHundrethsPercent": 10000,
-    "FStringFlagRepoGitHashFastString": "a368e7955082fd2d923ff3c438e6099130eaa344",
-    "DFStringFlagRepoGitHashDynamicString": "a368e7955082fd2d923ff3c438e6099130eaa344",
-    "FStringFlipTimeStampFastString": "2025-08-12T17:07:35.678Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-12T17:07:35.678Z"
+    "FStringFlagRepoGitHashFastString": "4b13cd9a333fff68361dc5efa75e0cf755fc0520",
+    "DFStringFlagRepoGitHashDynamicString": "4b13cd9a333fff68361dc5efa75e0cf755fc0520",
+    "FStringFlipTimeStampFastString": "2025-08-12T17:13:03.068Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-12T17:13:03.068Z"
 }
