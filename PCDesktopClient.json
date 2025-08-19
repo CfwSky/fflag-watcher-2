@@ -11694,7 +11694,7 @@
     "FFlagEnableRecommendationsForPCGDK": true,
     "FFlagISoundImplEnabled": true,
     "SFFlagForeverAloneService3": true,
-    "FFlagACEEngineAnimator2": true,
+    "FFlagACEEngineAnimator2": false,
     "FFlagSocialCarouselNilUnifiedLoggingFixEnabled": true,
     "FFlagUsePageSideMarginUniversalityFixEnabled": true,
     "DFFlagSendMapFieldsForClassUsage": true,
@@ -11713,7 +11713,6 @@
     "FFlagEnablePartyVoiceVolumeOnlyWhenInEligibleParty": true,
     "FFlagGamepadFocusRefactor": true,
     "FFlagSubmenuFixVectorConversion": true,
-    "FFlagACEEngineAnimator2_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-19T21:07:52",
     "FFlagKeepCursorPositionAfterMouseLock": true,
     "FFlagPPTwoFactorLogOutMessage": true,
     "FFlagAppChatFixNonExpDetailsShareLinks": true,
@@ -12648,8 +12647,8 @@
     "FFlagEnableUpdatedCaptureControls_v9": true,
     "FFlagLuaAppUseNumberForScalingTypes": true,
     "FFlagCLI1533232": true,
-    "FStringFlagRepoGitHashFastString": "53085bf73cf16a98d9ae041b61153654e4156c9e",
-    "DFStringFlagRepoGitHashDynamicString": "53085bf73cf16a98d9ae041b61153654e4156c9e",
-    "FStringFlipTimeStampFastString": "2025-08-19T22:07:17.764Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-19T22:07:17.764Z"
+    "FStringFlagRepoGitHashFastString": "9f021872e0c9e3417080a2e91b199e3d3f72a536",
+    "DFStringFlagRepoGitHashDynamicString": "9f021872e0c9e3417080a2e91b199e3d3f72a536",
+    "FStringFlipTimeStampFastString": "2025-08-19T22:12:30.672Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-19T22:12:30.672Z"
 }
