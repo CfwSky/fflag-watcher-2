@@ -11755,6 +11755,7 @@
     "DFFlagEnableIrisRerouteToRCCTimer": true,
     "FFlagExpChatContextMenuFocusFix3": true,
     "DFIntReportRTLSupportValueThrottleHundrethsPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;936419398;2025-08-20T18:47:19",
+    "FFlagUIPageLayoutProperBounds_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-20T19:04:16",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": true,
@@ -12672,8 +12673,8 @@
     "FFlagLuaAppUseNumberForScalingTypes": true,
     "FFlagCLI1533232": true,
     "FFlagLiveAnimationUpdateSupport_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-20T18:30:11",
-    "FStringFlagRepoGitHashFastString": "55282c0975c4add162eaedded1ef02f798e789b3",
-    "DFStringFlagRepoGitHashDynamicString": "55282c0975c4add162eaedded1ef02f798e789b3",
-    "FStringFlipTimeStampFastString": "2025-08-20T18:58:44.652Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-20T18:58:44.652Z"
+    "FStringFlagRepoGitHashFastString": "31e81b784d1b770e757dccde6e6490d9ea6c31ec",
+    "DFStringFlagRepoGitHashDynamicString": "31e81b784d1b770e757dccde6e6490d9ea6c31ec",
+    "FStringFlipTimeStampFastString": "2025-08-20T19:05:12.632Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-20T19:05:12.632Z"
 }
