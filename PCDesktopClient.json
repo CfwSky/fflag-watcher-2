@@ -12087,7 +12087,7 @@
     "FFlagLuaAppEnableDataModelStream4": true,
     "FFlagEnableJoinVoiceVrTelemetry": true,
     "DFFlagDebugVideoCaptureSkipFinalUpdate": true,
-    "FFlagAssetProviderUseAssetReqHandle2": false,
+    "FFlagAssetProviderUseAssetReqHandle2": true,
     "FFlagEnableCEVErrorRCCTimeoutLogs": true,
     "FFlagAddUILessMode": false,
     "FStringAddUILessModeIxpLayer": "Experience.Menu.UILess.Exposure",
@@ -12278,10 +12278,9 @@
     "FFlagLuauParametrizedAttributeSyntax": true,
     "FFlagAddCountersToMissingComponentsAndLabels": true,
     "DFFlagVoiceFixBracesInBraces2": true,
-    "FFlagAssetProviderUseAssetReqHandle2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;712738728;2025-08-21T20:26:26",
-    "FFlagAssetProviderCancelAPI_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;712738728;2025-08-21T20:26:26",
     "FFlagLuaAppEdpAudioManufacturerDeny": true,
     "DFFlagRenderFastClusterOcclusionCulling_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-21T21:26:27",
+    "FFlagAssetProviderCancelAPI": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -12743,8 +12742,8 @@
     "FFlagLiveAnimationUpdateSupport": true,
     "FFlagLuaAppScaleBreakpoints": true,
     "FIntPartyVoiceUndeafenDelayMS": 50,
-    "FStringFlagRepoGitHashFastString": "fa584a5dc0f1e21568a0210081a9df4a2075d5b7",
-    "DFStringFlagRepoGitHashDynamicString": "fa584a5dc0f1e21568a0210081a9df4a2075d5b7",
-    "FStringFlipTimeStampFastString": "2025-08-21T21:29:39.129Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-21T21:29:39.129Z"
+    "FStringFlagRepoGitHashFastString": "d0d86571e32941f544bcf7c7423af756d11b427d",
+    "DFStringFlagRepoGitHashDynamicString": "d0d86571e32941f544bcf7c7423af756d11b427d",
+    "FStringFlipTimeStampFastString": "2025-08-21T21:34:38.784Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-21T21:34:38.784Z"
 }
