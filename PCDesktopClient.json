@@ -11563,7 +11563,6 @@
     "FFlagTouchInputServiceTouchPinch": true,
     "FFlagTouchInputServiceTouchRotate": true,
     "FFlagTouchInputServiceTouchTap": true,
-    "FFlagEnableStylingEverywhere_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T19:52:54",
     "SkipReportingIsolatedProcessAsInferredCrash": "true",
     "GmaSdkClickoutUi2": "true",
     "DFFlagHttpServiceRequestTimeout": true,
@@ -11576,6 +11575,9 @@
     "FFlagPerformanceControlLinearUtility_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T20:39:28",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagSimRemoveBodyGravity": true,
+    "FFlagEnableStylingEverywhere": true,
+    "FFlagUpdateConnectionErrorLoc_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T20:57:55",
+    "FStringSquadCoordinationExperienceJoinExperimentLayer_Staged": "Party.Coordination.ExperienceJoin2;SteadyState;10;30;Revert;2025-08-25T20:59:09",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": true,
@@ -12503,8 +12505,8 @@
     "DFIntBatchWorkflowRefreshMaxWaitMs": 120,
     "DFIntBatchWorkflowRefreshMinWaitMs": 30,
     "FFlagAssetProviderAssetCacheUseRBXStorageImpl2": true,
-    "FStringFlagRepoGitHashFastString": "82b69670bc63c3bd66078565166fe4b76ee672d9",
-    "DFStringFlagRepoGitHashDynamicString": "82b69670bc63c3bd66078565166fe4b76ee672d9",
-    "FStringFlipTimeStampFastString": "2025-08-25T20:54:32.352Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-25T20:54:32.352Z"
+    "FStringFlagRepoGitHashFastString": "01d74fcf819b64e07f6b05b13261ecd7542c6065",
+    "DFStringFlagRepoGitHashDynamicString": "01d74fcf819b64e07f6b05b13261ecd7542c6065",
+    "FStringFlipTimeStampFastString": "2025-08-25T21:01:52.923Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-25T21:01:52.923Z"
 }
