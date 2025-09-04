@@ -11680,7 +11680,6 @@
     "FFlagEnableSoundSessionTelemetry5_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T18:09:52",
     "FFlagISoundGroupImplEnabled": true,
     "FFlagAmrFixDependencyPerms_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T18:13:58",
-    "FFlagOpenUserLuaProfileFromItemPage_V2_Staged": "true;SteadyState;10;30;Revert;true;1458178670;2025-09-04T18:14:35",
     "FFlagOpenUserLuaProfileFromItemPage_V2_IXP": "1;Portal.Open_User_Lua_Profile_From_Item_Details_Page_V2-1757009637;Open_User_Lua_Profile_From_Item_Details_Page_V2;1458178670;dev_controlled",
     "FFlagTaskThreadUsesRuntime2": true,
     "FFlagFixPlaceholderGameGrid_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T18:21:48",
@@ -12172,7 +12171,7 @@
     "DFIntRobloxTelemetryLoadTestEndThrottleHundredthsPercent": 0,
     "DFIntRobloxTelemetryLoadTestStartThrottleHundredthsPercent": 0,
     "DFStringLoadTestArguments": "\"\"",
-    "DFStringLoadTestingUniverseId": 6701277882,
+    "DFStringLoadTestingUniverseId": "\"\"",
     "DFIntLoadTestStartTimeUnix": 0,
     "FFlagMigrateLCMToComponentManager6": true,
     "FFlagUseFallbackWindowsDPI": true,
@@ -12185,7 +12184,6 @@
     "FFlagPlayerListPersistVisibility_IXP": "1;Experience.Menu;User.Experience.Menu.PlayerListPersistentVisibility;775889394;flagbank",
     "FFlagSmoothClusterDelayOccMeshActivation": true,
     "FFlagSimOptimizeBodyMass": true,
-    "DFStringLoadTestingUniverseId_Staged": "\"\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1339362686;2025-09-04T17:40:03",
     "FFlagVoiceWebrtcIceInActiveTimeoutEnable": true,
     "DFIntVoiceWebrtcIceInActiveTimeoutMs_Staged": "30000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T17:47:35",
     "DFFlagFixCapturesBulkSave_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T18:21:12",
@@ -12650,8 +12648,8 @@
     "FFlagFixUIRayGoingThruExistingVerts3": true,
     "DFFlagSaferCharInputHandling": false,
     "FFlagLuaAppEdpBackendV2LogMissingFetchEventData": true,
-    "FStringFlagRepoGitHashFastString": "465ab5360c4d12d46feb121b71a4f68e263a9e8b",
-    "DFStringFlagRepoGitHashDynamicString": "465ab5360c4d12d46feb121b71a4f68e263a9e8b",
-    "FStringFlipTimeStampFastString": "2025-09-04T18:38:37.846Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-04T18:38:37.846Z"
+    "FStringFlagRepoGitHashFastString": "083d1ef0dd2cca33c7080585d05836228b488793",
+    "DFStringFlagRepoGitHashDynamicString": "083d1ef0dd2cca33c7080585d05836228b488793",
+    "FStringFlipTimeStampFastString": "2025-09-04T18:46:19.617Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-04T18:46:19.617Z"
 }
