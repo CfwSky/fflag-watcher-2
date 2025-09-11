@@ -12203,7 +12203,6 @@
     "FFlagRbxStorageFindAndRemoveOrphanedFiles": true,
     "FFlagRbxStorageRemoveLargeWal": true,
     "FFlagLuauCodeGenRegAutoSpillA64": true,
-    "DFFlagRbxStorageNewProcessHitList_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:47:59",
     "DFFlagVoiceSdpSendCompressionRatioTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:54:24",
     "FFlagFixUnifiedDRSGlassAndForcefield": true,
     "FFlagFixStudioDisplaySizeFallback": true,
@@ -12212,6 +12211,7 @@
     "FFlagDynamicTranslationTokenizedNumberParameterizationEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;224456262;2025-09-10T23:38:39",
     "FFlagDynamicTranslationTokenizedUsernameParameterizationEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;224456262;2025-09-10T23:38:39",
     "FFlagFixAPModerationEviction_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T23:40:31",
+    "DFFlagRbxStorageNewProcessHitList": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12677,8 +12677,8 @@
     "FFlagLuaAppUseContentMaturityUpsellMapping": true,
     "FFlagVoiceConnectionApiEnableTearDownPeerConnectionFactoryOnSignalingThread": true,
     "FFlagReportBatchedRaycastTelemetry": true,
-    "FStringFlagRepoGitHashFastString": "3186a6248b0b7bdc87ddcd5dd85a0c5320a44d65",
-    "DFStringFlagRepoGitHashDynamicString": "3186a6248b0b7bdc87ddcd5dd85a0c5320a44d65",
-    "FStringFlipTimeStampFastString": "2025-09-10T23:52:14.719Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-10T23:52:14.719Z"
+    "FStringFlagRepoGitHashFastString": "b165d1631f5b81af9b78f9ca82796372973798b2",
+    "DFStringFlagRepoGitHashDynamicString": "b165d1631f5b81af9b78f9ca82796372973798b2",
+    "FStringFlipTimeStampFastString": "2025-09-10T23:56:12.108Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-10T23:56:12.108Z"
 }
