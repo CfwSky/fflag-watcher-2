@@ -11751,6 +11751,8 @@
     "FFlagDeinitRecordingWhenMutedV2Fix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:48:15",
     "FFlagGraphicsRequireConstantBuffers_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:48:18",
     "FFlagVoxelGridFixUpsample": true,
+    "FFlagFixScrollingFrameUICorner_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T17:09:03",
+    "FFlagLuaAppLogFooterMetadata_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T17:09:37",
     "FFlagVoxelGridFixTerrainRegionWater": true,
     "FFlagTaskSchedulerLimitTargetFpsTo2402": true,
     "FFlagVoxelGridFixRegionChanged": true,
@@ -12738,8 +12740,8 @@
     "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": 10,
     "DFFlagCheckedWaitForChild_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1569968302;2025-09-17T16:34:01",
     "DFFlagDoNotPushTooHard_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1569968302;2025-09-17T16:34:01",
-    "FStringFlagRepoGitHashFastString": "24b25cf77f0e66f5d694cb582253e00004ded1f2",
-    "DFStringFlagRepoGitHashDynamicString": "24b25cf77f0e66f5d694cb582253e00004ded1f2",
-    "FStringFlipTimeStampFastString": "2025-09-17T17:05:18.572Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-17T17:05:18.572Z"
+    "FStringFlagRepoGitHashFastString": "caf16338e347c002eaafae262377b4f783fd1f59",
+    "DFStringFlagRepoGitHashDynamicString": "caf16338e347c002eaafae262377b4f783fd1f59",
+    "FStringFlipTimeStampFastString": "2025-09-17T17:11:44.885Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-17T17:11:44.885Z"
 }
