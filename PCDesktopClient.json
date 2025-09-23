@@ -12968,8 +12968,8 @@
     "FFlagLuaAppAddSortDataToSocialCarouselClicks": true,
     "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4": true,
     "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2": 1000,
-    "FStringFlagRepoGitHashFastString": "2fa2c4ee9a7348be30ce65cafa9feea9a607f2ff",
-    "DFStringFlagRepoGitHashDynamicString": "2fa2c4ee9a7348be30ce65cafa9feea9a607f2ff",
-    "FStringFlipTimeStampFastString": "2025-09-23T18:28:28.096Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-23T18:28:28.096Z"
+    "FStringFlagRepoGitHashFastString": "3dbfa64f05190989923c8cce089f54d090cc4937",
+    "DFStringFlagRepoGitHashDynamicString": "3dbfa64f05190989923c8cce089f54d090cc4937",
+    "FStringFlipTimeStampFastString": "2025-09-23T18:35:33.381Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-23T18:35:33.381Z"
 }
