@@ -12061,6 +12061,8 @@
     "FFlagAppChatEnableHandheldScalingFixes_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:07:58",
     "DFFlagEnableGameJoinChatTimeoutEvent_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:09:05",
     "FFlagSlimServiceEnableUploadsInNonEditMode": true,
+    "FFlagMediaPlaybackStopsWhenJoiningExperience_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:20:33",
+    "FFlagRemoveUpdatePromptChild_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:24:02",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -13036,8 +13038,8 @@
     "FFlagDisableGalleryStopGap": true,
     "DFFlagWriteFlagCacheAfterDynamicFetch": true,
     "DFFlagWriteTombstoneAfterDynamicFetch": true,
-    "FStringFlagRepoGitHashFastString": "30a905e1e6381ebd9368c8f8f89d6d86b5611802",
-    "DFStringFlagRepoGitHashDynamicString": "30a905e1e6381ebd9368c8f8f89d6d86b5611802",
-    "FStringFlipTimeStampFastString": "2025-09-24T20:19:43.629Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-24T20:19:43.629Z"
+    "FStringFlagRepoGitHashFastString": "71ad41adc700d4eba940c8f9932d3d556211c07d",
+    "DFStringFlagRepoGitHashDynamicString": "71ad41adc700d4eba940c8f9932d3d556211c07d",
+    "FStringFlipTimeStampFastString": "2025-09-24T20:26:17.073Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-24T20:26:17.073Z"
 }
