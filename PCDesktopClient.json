@@ -12065,7 +12065,6 @@
     "FFlagProfilePlatformEnableClickToCopyUsername": true,
     "FFlagEnableSeamlessVoiceV2v2": true,
     "FFlagEnableJoinVoiceVrTelemetry": true,
-    "FFlagSlimServiceEnableUploadsInNonEditMode_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;266416063;2025-09-24T21:54:20",
     "FFlagSeamlessVoiceV2JoinVoiceToast": true,
     "FFlagDisconnectToastClientRewrite": true,
     "FFlagIsSeamlessVoiceCheckBugfix": true,
@@ -13052,8 +13051,8 @@
     "FFlagDisableGalleryStopGap": true,
     "DFFlagWriteFlagCacheAfterDynamicFetch": true,
     "DFFlagWriteTombstoneAfterDynamicFetch": true,
-    "FStringFlagRepoGitHashFastString": "6e7287b64ed4190cbb4ca7f4744df0cce03dfeb7",
-    "DFStringFlagRepoGitHashDynamicString": "6e7287b64ed4190cbb4ca7f4744df0cce03dfeb7",
-    "FStringFlipTimeStampFastString": "2025-09-24T22:55:56.464Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-24T22:55:56.464Z"
+    "FStringFlagRepoGitHashFastString": "a7d49ada4d3e638c53828abed3b9b27ae514cdd6",
+    "DFStringFlagRepoGitHashDynamicString": "a7d49ada4d3e638c53828abed3b9b27ae514cdd6",
+    "FStringFlipTimeStampFastString": "2025-09-24T22:58:49.354Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-24T22:58:49.354Z"
 }
