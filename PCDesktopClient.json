@@ -12050,7 +12050,7 @@
     "FFlagFlyweightTrackId": true,
     "FFlagSduiSupportArrayParsing": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
-    "FStringEngineVoiceSdpCompressionIxpLayer_Staged": "Engine.Voice.SdpCompression.Exposure;SteadyState;10;30;Revert;true;2062099502;2025-09-24T18:28:08",
+    "FStringEngineVoiceSdpCompressionIxpLayer_Staged": "Engine.Voice.SdpCompression.Exposure ;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T18:40:16",
     "FStringEngineVoiceSdpCompressionIxpLayer_IXP": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
     "FFlagEngineVoiceSdpCompressionIxpEnabled_Staged": "true;SteadyState;10;30;Revert;true;2062099502;2025-09-24T18:28:08",
     "FFlagEngineVoiceSdpCompressionIxpEnabled_IXP": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
@@ -13031,8 +13031,8 @@
     "FFlagDisableGalleryStopGap": true,
     "DFFlagWriteTombstoneAfterDynamicFetch_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T17:40:59",
     "DFFlagWriteFlagCacheAfterDynamicFetch": true,
-    "FStringFlagRepoGitHashFastString": "a9e7ca6265cfb6eb522d146f51feb9e3f98e2e4c",
-    "DFStringFlagRepoGitHashDynamicString": "a9e7ca6265cfb6eb522d146f51feb9e3f98e2e4c",
-    "FStringFlipTimeStampFastString": "2025-09-24T18:34:43.309Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-24T18:34:43.309Z"
+    "FStringFlagRepoGitHashFastString": "4dc090eb89e6d2d1a0d567e5d71b2fb87e94d9eb",
+    "DFStringFlagRepoGitHashDynamicString": "4dc090eb89e6d2d1a0d567e5d71b2fb87e94d9eb",
+    "FStringFlipTimeStampFastString": "2025-09-24T18:46:33.509Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-24T18:46:33.509Z"
 }
