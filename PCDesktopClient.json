@@ -12070,11 +12070,11 @@
     "FFlagIsSeamlessVoiceCheckBugfix": true,
     "FFlagSendUserConnectionStatus": true,
     "FFlagShowJoinVoiceRaceConditionFix": true,
-    "FFlagStudioTasksFutureShareMutexes_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T22:04:01",
     "FFlagStudioActionsMultiplePayloads_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T22:14:10",
     "FFlagMicroprofilerBigButtons": true,
     "FFlagNativeDialogManager_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T22:22:20",
     "FFlagFixToggleMenuIconForTheFive_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T22:33:29",
+    "FFlagStudioTasksFutureShareMutexes": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -13051,8 +13051,8 @@
     "FFlagDisableGalleryStopGap": true,
     "DFFlagWriteFlagCacheAfterDynamicFetch": true,
     "DFFlagWriteTombstoneAfterDynamicFetch": true,
-    "FStringFlagRepoGitHashFastString": "a04e3bdf4c4ffe9b730b93bc2547e3b845004da6",
-    "DFStringFlagRepoGitHashDynamicString": "a04e3bdf4c4ffe9b730b93bc2547e3b845004da6",
-    "FStringFlipTimeStampFastString": "2025-09-24T23:06:26.492Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-24T23:06:26.492Z"
+    "FStringFlagRepoGitHashFastString": "57fe806a87f6c6d136d99dd65536fa57dfbfaba2",
+    "DFStringFlagRepoGitHashDynamicString": "57fe806a87f6c6d136d99dd65536fa57dfbfaba2",
+    "FStringFlipTimeStampFastString": "2025-09-24T23:09:12.498Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-24T23:09:12.498Z"
 }
