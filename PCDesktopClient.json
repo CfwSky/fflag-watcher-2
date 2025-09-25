@@ -12155,6 +12155,7 @@
     "FFlagImproveReplaceBodyPart": true,
     "FFlagRemoveUpdatePromptChild_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T21:45:05",
     "FStringStudioEmergencyMessageV4_Staged": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjg5LjAuMCIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T21:54:30",
+    "DFFlagAddClassFullName_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T21:56:56",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagEnableAdsMouseUnlock": true,
@@ -13131,8 +13132,8 @@
     "DFFlagFlagCacheColdRun": false,
     "FFlagExpChatTelemetryEventTrigger3": true,
     "FIntEnableCVSUrlForOtaPatchPercentage_Staged": "25;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T21:15:36",
-    "FStringFlagRepoGitHashFastString": "fd18b885016c27c26f07b9d948c1a3f9cb967df0",
-    "DFStringFlagRepoGitHashDynamicString": "fd18b885016c27c26f07b9d948c1a3f9cb967df0",
-    "FStringFlipTimeStampFastString": "2025-09-25T22:00:16.164Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-25T22:00:16.164Z"
+    "FStringFlagRepoGitHashFastString": "56fc749cb134c3c23c4e48c288c4881e84b26e1d",
+    "DFStringFlagRepoGitHashDynamicString": "56fc749cb134c3c23c4e48c288c4881e84b26e1d",
+    "FStringFlipTimeStampFastString": "2025-09-25T22:00:29.671Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-25T22:00:29.671Z"
 }
