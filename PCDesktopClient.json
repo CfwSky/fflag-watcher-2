@@ -12121,8 +12121,6 @@
     "FFlagEnableWebViewURLLoadTelemetry": true,
     "FFlagEnableNewParameterInFormatEconomicRestrictionText": true,
     "FFlagSTUDIOPLAT40830FloatingWindowCloseTab": true,
-    "FFlagLuaAppExperienceUnavailableMessage3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T19:53:22",
-    "FFlagLuaAppDeveloperProfileBackFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T19:54:06",
     "FFlagRobloxTouchGestureFixPositions": true,
     "FFlagRobloxTouchSwipeStartFix": true,
     "FFlagAudioDiscoveryHandleAudioPlayer": true,
@@ -12146,6 +12144,8 @@
     "FFlagMicroProfilerRawFreeUseOperatorArrayDelete_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T20:32:07",
     "FFlagMigrateEmptyResultsViewToFoundation": true,
     "DFFlagInstanceSanitization": true,
+    "FFlagLuaAppDeveloperProfileBackFix": true,
+    "FFlagLuaAppExperienceUnavailableMessage3": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -13120,8 +13120,8 @@
     "DFFlagWriteTombstoneAfterDynamicFetch": true,
     "DFFlagFlagCacheColdRun": true,
     "FFlagExpChatTelemetryEventTrigger3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;925196431;2025-09-25T19:56:45",
-    "FStringFlagRepoGitHashFastString": "245d11c47d0e90f13416b688c6fd2fef19b86875",
-    "DFStringFlagRepoGitHashDynamicString": "245d11c47d0e90f13416b688c6fd2fef19b86875",
-    "FStringFlipTimeStampFastString": "2025-09-25T20:56:17.948Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-25T20:56:17.948Z"
+    "FStringFlagRepoGitHashFastString": "7996c6306944df7c983560b579b02bf3d7b68c51",
+    "DFStringFlagRepoGitHashDynamicString": "7996c6306944df7c983560b579b02bf3d7b68c51",
+    "FStringFlipTimeStampFastString": "2025-09-25T20:59:33.246Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-25T20:59:33.246Z"
 }
