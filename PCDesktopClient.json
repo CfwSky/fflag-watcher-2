@@ -12101,9 +12101,6 @@
     "FFlagLuauCompileVectorLerp": true,
     "FFlagLuauTypeCheckerVectorLerp": true,
     "FFlagLuauVectorLerp": true,
-    "FFlagEnableLaunchAppValidCookieCheck_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;121501334;2025-09-25T18:07:59",
-    "FFlagPrecomputeDeformVertices2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1201515847;2025-09-25T18:09:18",
-    "FFlagPrecomputeDeformVertices3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1201515847;2025-09-25T18:09:18",
     "DFFlagTeleportReconnect3": true,
     "DFIntIsrTimestampOffsetSmoothingHundredths_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:11:41",
     "FFlagLargeReplicatorWrite5_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:13:42",
@@ -12127,6 +12124,9 @@
     "FFlagAudioDiscoveryHandleRandomAssetIds_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:55:33",
     "FFlagAudioDiscoveryHandleAudioPlayer_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:55:43",
     "FFlagPerfDataOnTelemetryV2HighCardinalityFields_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T19:02:28",
+    "FFlagPrecomputeDeformVertices2": true,
+    "FFlagPrecomputeDeformVertices3": true,
+    "FFlagEnableLaunchAppValidCookieCheck": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagEnableAdsMouseUnlock": true,
@@ -13100,8 +13100,8 @@
     "DFFlagWriteFlagCacheAfterDynamicFetch": true,
     "DFFlagWriteTombstoneAfterDynamicFetch": true,
     "DFFlagFlagCacheColdRun": true,
-    "FStringFlagRepoGitHashFastString": "c2af4c7f9611b940f0b752980b31b5e162879316",
-    "DFStringFlagRepoGitHashDynamicString": "c2af4c7f9611b940f0b752980b31b5e162879316",
-    "FStringFlipTimeStampFastString": "2025-09-25T19:05:10.278Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-25T19:05:10.278Z"
+    "FStringFlagRepoGitHashFastString": "be4ba6dea5226d55c8620be7bf16582a681225a9",
+    "DFStringFlagRepoGitHashDynamicString": "be4ba6dea5226d55c8620be7bf16582a681225a9",
+    "FStringFlipTimeStampFastString": "2025-09-25T19:13:06.988Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-25T19:13:06.988Z"
 }
