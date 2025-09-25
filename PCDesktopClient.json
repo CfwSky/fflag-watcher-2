@@ -12126,6 +12126,7 @@
     "FFlagRobloxTouchSwipeStartFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1201567471;2025-09-25T18:50:48",
     "FFlagAudioDiscoveryHandleRandomAssetIds_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:55:33",
     "FFlagAudioDiscoveryHandleAudioPlayer_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:55:43",
+    "FFlagPerfDataOnTelemetryV2HighCardinalityFields_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T19:02:28",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagEnableAdsMouseUnlock": true,
@@ -13099,8 +13100,8 @@
     "DFFlagWriteFlagCacheAfterDynamicFetch": true,
     "DFFlagWriteTombstoneAfterDynamicFetch": true,
     "DFFlagFlagCacheColdRun": true,
-    "FStringFlagRepoGitHashFastString": "149cf5f43c9752ec0f3630bb25d46d8a38c665bc",
-    "DFStringFlagRepoGitHashDynamicString": "149cf5f43c9752ec0f3630bb25d46d8a38c665bc",
-    "FStringFlipTimeStampFastString": "2025-09-25T19:00:02.282Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-25T19:00:02.282Z"
+    "FStringFlagRepoGitHashFastString": "c2af4c7f9611b940f0b752980b31b5e162879316",
+    "DFStringFlagRepoGitHashDynamicString": "c2af4c7f9611b940f0b752980b31b5e162879316",
+    "FStringFlipTimeStampFastString": "2025-09-25T19:05:10.278Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-25T19:05:10.278Z"
 }
