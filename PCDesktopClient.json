@@ -12130,6 +12130,8 @@
     "FFlagCachelessPluginLoading2_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:41:52",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagVoiceFireTelemetryFirstInLeaveOp": true,
+    "FFlagRobloxTouchGestureFixPositions_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1201567471;2025-09-25T18:50:48",
+    "FFlagRobloxTouchSwipeStartFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1201567471;2025-09-25T18:50:48",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagEnableAdsMouseUnlock": true,
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13102,8 +13104,8 @@
     "DFFlagWriteFlagCacheAfterDynamicFetch": true,
     "DFFlagWriteTombstoneAfterDynamicFetch": true,
     "DFFlagFlagCacheColdRun": true,
-    "FStringFlagRepoGitHashFastString": "8bb3961d57a0cc20f091903304eb08bf83b2f90c",
-    "DFStringFlagRepoGitHashDynamicString": "8bb3961d57a0cc20f091903304eb08bf83b2f90c",
-    "FStringFlipTimeStampFastString": "2025-09-25T18:50:29.273Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-25T18:50:29.273Z"
+    "FStringFlagRepoGitHashFastString": "4821c3c3eddff704702e5c80916dfffc4ffdf0ed",
+    "DFStringFlagRepoGitHashDynamicString": "4821c3c3eddff704702e5c80916dfffc4ffdf0ed",
+    "FStringFlipTimeStampFastString": "2025-09-25T18:56:10.718Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-25T18:56:10.718Z"
 }
