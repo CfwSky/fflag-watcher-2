@@ -12145,7 +12145,6 @@
     "DFFlagMicroProfilerStrSanitizer2": true,
     "FFlagMicroProfilerRawFreeUseOperatorArrayDelete": true,
     "FFlagImproveReplaceBodyPart": true,
-    "DFFlagAddClassFullName_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T21:56:56",
     "DFFlagCLI166894_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T22:03:44",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagAXSupportPBRInItemViewport": true,
@@ -12164,6 +12163,7 @@
     "FFlagImprovedModelLODBetaFeature_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;966608581;2025-09-25T22:46:29",
     "FFlagDeltaFactoryCloneCountryRegionCode_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T22:48:08",
     "GmaSdkClickableAdsRefactor2": "true",
+    "DFFlagAddClassFullName": true,
     "FFlagEnableAdsMouseUnlock": true,
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent": 60,
@@ -13138,8 +13138,8 @@
     "FFlagExpChatTelemetryEventTrigger3": true,
     "FIntEnableCVSUrlForOtaPatchPercentage": 25,
     "FIntEnableCVSUrlForOtaPatchPercentage_Staged": "50;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T22:34:23",
-    "FStringFlagRepoGitHashFastString": "eae774c752facc92fe34c6dc05809bcdcfdab34e",
-    "DFStringFlagRepoGitHashDynamicString": "eae774c752facc92fe34c6dc05809bcdcfdab34e",
-    "FStringFlipTimeStampFastString": "2025-09-25T23:04:02.263Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-25T23:04:02.263Z"
+    "FStringFlagRepoGitHashFastString": "34673263ea24cb042649827c1148a461b93fc9d8",
+    "DFStringFlagRepoGitHashDynamicString": "34673263ea24cb042649827c1148a461b93fc9d8",
+    "FStringFlipTimeStampFastString": "2025-09-25T23:07:17.108Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-25T23:07:17.108Z"
 }
