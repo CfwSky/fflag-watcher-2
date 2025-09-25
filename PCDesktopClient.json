@@ -13119,9 +13119,9 @@
     "DFFlagWriteFlagCacheAfterDynamicFetch": true,
     "DFFlagWriteTombstoneAfterDynamicFetch": true,
     "DFFlagFlagCacheColdRun": true,
-    "FFlagExpChatTelemetryEventTrigger3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;925196431;2025-09-25T19:56:45",
-    "FStringFlagRepoGitHashFastString": "7996c6306944df7c983560b579b02bf3d7b68c51",
-    "DFStringFlagRepoGitHashDynamicString": "7996c6306944df7c983560b579b02bf3d7b68c51",
-    "FStringFlipTimeStampFastString": "2025-09-25T20:59:33.246Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-25T20:59:33.246Z"
+    "FFlagExpChatTelemetryEventTrigger3": true,
+    "FStringFlagRepoGitHashFastString": "73c703a2d93a2158a54156570c8719965c54dc6c",
+    "DFStringFlagRepoGitHashDynamicString": "73c703a2d93a2158a54156570c8719965c54dc6c",
+    "FStringFlipTimeStampFastString": "2025-09-25T21:07:00.453Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-25T21:07:00.453Z"
 }
