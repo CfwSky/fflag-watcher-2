@@ -12176,6 +12176,7 @@
     "FFlagEnableClientSettingAPIInProduction": true,
     "FFlagUseClientSettingAPI": true,
     "FFlagAppNavLabelScaling": true,
+    "FFlagLuauAddErrorCaseForIncompatibleTypePacks_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T18:57:27",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -13149,8 +13150,8 @@
     "FFlagExpChatSendLoadSuccessEvent": true,
     "FFlagTextChatFixTelemetryFields": true,
     "FFlagTextChatMoveTextSourceAdded": true,
-    "FStringFlagRepoGitHashFastString": "c2cbb6c688787a16f6af9f5e63a38937b96d5768",
-    "DFStringFlagRepoGitHashDynamicString": "c2cbb6c688787a16f6af9f5e63a38937b96d5768",
-    "FStringFlipTimeStampFastString": "2025-09-26T18:57:20.448Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-26T18:57:20.448Z"
+    "FStringFlagRepoGitHashFastString": "796b6a993c893b84808acabe0430740cd8bb584e",
+    "DFStringFlagRepoGitHashDynamicString": "796b6a993c893b84808acabe0430740cd8bb584e",
+    "FStringFlipTimeStampFastString": "2025-09-26T18:59:16.770Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-26T18:59:16.770Z"
 }
