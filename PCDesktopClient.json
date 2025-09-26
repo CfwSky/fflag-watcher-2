@@ -12164,8 +12164,6 @@
     "FFlagLuaAppBootcampIntroUABOOTCAMP86": true,
     "DFFlagLoadTestingEnabled3": true,
     "FFlagLuauRemoveGenericErrorForParams": true,
-    "FFlagEnableClientSettingAPIInProduction_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1829711134;2025-09-26T17:47:14",
-    "FFlagUseClientSettingAPI_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1829711134;2025-09-26T17:47:14",
     "FFlagAppNavLabelScaling_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T17:50:09",
     "FFlagFileSyncerIOHandlerEnableDeduplication": true,
     "FIntExpChatWindowScrollV2Debounce": 400,
@@ -12176,6 +12174,8 @@
     "DFFlagFixCrashDueToZeroWorkers_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T18:27:50",
     "DFFlagResetNetworkOwnerOnRemovePrimitive_Staged": "true;SteadyState;10;30;Revert;2025-09-26T18:34:16",
     "DFIntExpChatWindowScrollThrottlePermyriad": 100,
+    "FFlagEnableClientSettingAPIInProduction": true,
+    "FFlagUseClientSettingAPI": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -13149,8 +13149,8 @@
     "FFlagExpChatSendLoadSuccessEvent": true,
     "FFlagTextChatFixTelemetryFields": true,
     "FFlagTextChatMoveTextSourceAdded": true,
-    "FStringFlagRepoGitHashFastString": "56857d9995256dc4cc86b64fa3dd13c91901d457",
-    "DFStringFlagRepoGitHashDynamicString": "56857d9995256dc4cc86b64fa3dd13c91901d457",
-    "FStringFlipTimeStampFastString": "2025-09-26T18:47:26.760Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-26T18:47:26.760Z"
+    "FStringFlagRepoGitHashFastString": "1c5bacb3ebeb82a7e6ed45a713c5a36957312c4c",
+    "DFStringFlagRepoGitHashDynamicString": "1c5bacb3ebeb82a7e6ed45a713c5a36957312c4c",
+    "FStringFlipTimeStampFastString": "2025-09-26T18:51:52.627Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-26T18:51:52.627Z"
 }
