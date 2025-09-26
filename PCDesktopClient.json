@@ -10852,7 +10852,7 @@
     "FIntVideoCaptureMaxShortSideThumbnail": 720,
     "FFlagStudioCloseTestInstanceOnNonSuccessOpen2": true,
     "FFlagStudioMessageDispatcherWithExplicitStopSource": true,
-    "FFlagStudioFireNonRepKeyEventOnStateChange": true,
+    "FFlagStudioFireNonRepKeyEventOnStateChange": false,
     "FFlagTextChatAdjustMetadataConstraint": true,
     "FFlagEnableSocialProfilePeekViewExposureEvents": true,
     "FFlagScriptEditorMemoryLeaks": true,
@@ -12156,7 +12156,6 @@
     "DFFlagVoiceSdpCompressionRecordNetworkPriority": true,
     "DFFlagCLI166894": true,
     "FFlagUserProfileStoreQueryRefetch": true,
-    "FFlagStudioFireNonRepKeyEventOnStateChange_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T23:29:38",
     "FFlagProfilePlatformEnableChipSocialRow_v6_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformEnableChipSocialRow-v1;1703536934;dev_controlled",
     "DFFlagProductInfoCacheHitRateAnalyticsEnabled": true,
     "DFIntRobloxTelemetryProductInfoCacheHitRateThrottleHundredthsPercent": 1,
@@ -13135,10 +13134,9 @@
     "DFFlagWriteTombstoneAfterDynamicFetch": true,
     "DFFlagFlagCacheColdRun": false,
     "FFlagExpChatTelemetryEventTrigger3": true,
-    "FIntEnableCVSUrlForOtaPatchPercentage": 50,
-    "FIntEnableCVSUrlForOtaPatchPercentage_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T23:49:03",
-    "FStringFlagRepoGitHashFastString": "940fd1fadf0065dc18951192aab94b609f860da1",
-    "DFStringFlagRepoGitHashDynamicString": "940fd1fadf0065dc18951192aab94b609f860da1",
-    "FStringFlipTimeStampFastString": "2025-09-25T23:52:44.699Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-25T23:52:44.699Z"
+    "FIntEnableCVSUrlForOtaPatchPercentage": 100,
+    "FStringFlagRepoGitHashFastString": "ca084b9fe0c82b8ff2c29b04e0963dba2a965c73",
+    "DFStringFlagRepoGitHashDynamicString": "ca084b9fe0c82b8ff2c29b04e0963dba2a965c73",
+    "FStringFlipTimeStampFastString": "2025-09-26T01:08:36.087Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-26T01:08:36.087Z"
 }
