@@ -12162,8 +12162,9 @@
     "DFFlagSolverV2CleanupPendingModelStreamingModeModels": true,
     "FFlagSolverV2RefactorReplicationStateUpdate": true,
     "FFlagDeltaFactoryCloneCountryRegionCode": true,
-    "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
+    "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "FFlagOCClearStaleOccluderMeshIdx_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T16:17:47",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagEnableAdsMouseUnlock": true,
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -12570,7 +12571,7 @@
     "FFlagGetSwapChainSizeSupportBiggerSize": true,
     "DFFlagDataStoreGetKeyVersionInfoRdbFlag_PlaceFilter": "true;16101250253;18412633979;16146832113;4924922222;126884695634066",
     "DFFlagDataStoreEnableRdbAshTraffic_PlaceFilter": "true;18412633979;16101250253;16146832113;4924922222;126884695634066",
-    "DFStringDataStoreRdbShadowTrafficRolloutConfig_PlaceFilter": "5564402127:10000,6241394935:10000,5578556129:0,1686885941:0,7436755782:6000;16101250253;18412633979;16146832113;4924922222;126884695634066",
+    "DFStringDataStoreRdbShadowTrafficRolloutConfig_PlaceFilter": "5564402127:10000,6241394935:10000,5578556129:0,1686885941:0,7436755782:8000;16101250253;18412633979;16146832113;4924922222;126884695634066",
     "DFFlagDataStoreEnableRdbShadowTraffic_PlaceFilter": "true;16101250253;18412633979;16146832113;4924922222;126884695634066",
     "FFlagSimAeroNewNewtonLogging": true,
     "DFFlagEnableFeatureTimeoutMigration": true,
@@ -13135,8 +13136,8 @@
     "DFFlagFlagCacheColdRun": false,
     "FFlagExpChatTelemetryEventTrigger3": true,
     "FIntEnableCVSUrlForOtaPatchPercentage": 100,
-    "FStringFlagRepoGitHashFastString": "0a2c8a11ea79d9c649bfaafa69e5fab495aa3728",
-    "DFStringFlagRepoGitHashDynamicString": "0a2c8a11ea79d9c649bfaafa69e5fab495aa3728",
-    "FStringFlipTimeStampFastString": "2025-09-26T15:58:11.406Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-26T15:58:11.406Z"
+    "FStringFlagRepoGitHashFastString": "58a2566e43d3795b16f170aaf0dd397319720c86",
+    "DFStringFlagRepoGitHashDynamicString": "58a2566e43d3795b16f170aaf0dd397319720c86",
+    "FStringFlipTimeStampFastString": "2025-09-26T16:18:53.350Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-26T16:18:53.350Z"
 }
