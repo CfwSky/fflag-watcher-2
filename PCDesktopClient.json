@@ -12244,8 +12244,6 @@
     "FFlagFoundationNoArrowOnVirtualRef": true,
     "FFlagReportParticleEmitterStats": true,
     "FFlagAudioEngineFasterDspConnectionLookup": true,
-    "DFFlagHttpNetworkChangeOnLostConnection_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T21:30:43",
-    "FFlagFastClusterIgnoreMeshPartJointOffset_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T21:35:20",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagVideoMacCleanupPixelBuffers": true,
     "FFlagAcousticSimulationIncrementalPathfinding2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T21:47:26",
@@ -12257,6 +12255,11 @@
     "DFFlagVideoMarkRodeoDataInHttpCache2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T22:17:54",
     "DFFlagWebSocketTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;458128043;2025-09-29T22:27:02",
     "FFlagRobloxTouchGestureFixPositions_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;877322262;2025-09-29T22:30:16",
+    "FFlagUpdateVirtualCursorLastInputMode_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2045686906;2025-09-29T22:35:49",
+    "FFlagFastClusterIgnoreMeshPartJointOffset": true,
+    "DFFlagHttpNetworkChangeOnLostConnection": true,
+    "FFlagProfilePlatformEnableLazyLoadingComponentsV4_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.LazyLoading;931847338;dev_controlled",
+    "FFlagExplorerShowOrientationIndicator2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T22:39:48",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagEnableAdsMouseUnlock": true,
@@ -13222,8 +13225,8 @@
     "DFFlagUsePhysicsMeshDecoderInBulletWrapper": true,
     "FFlagTerrainOneTouch690": true,
     "FFlagPCGDKSwitchMultiplayerPrivilegeCall": true,
-    "FStringFlagRepoGitHashFastString": "6f76fabdc99fc0cea5313b239c3effd1ddd0f64e",
-    "DFStringFlagRepoGitHashDynamicString": "6f76fabdc99fc0cea5313b239c3effd1ddd0f64e",
-    "FStringFlipTimeStampFastString": "2025-09-29T22:36:52.129Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-29T22:36:52.129Z"
+    "FStringFlagRepoGitHashFastString": "428cb0f234cc02e8badd4e9fe5b5b65b94bed0ff",
+    "DFStringFlagRepoGitHashDynamicString": "428cb0f234cc02e8badd4e9fe5b5b65b94bed0ff",
+    "FStringFlipTimeStampFastString": "2025-09-29T22:42:47.923Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-29T22:42:47.923Z"
 }
