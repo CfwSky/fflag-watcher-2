@@ -12178,7 +12178,6 @@
     "FFlagLuauAddErrorCaseForIncompatibleTypePacks": true,
     "GmasdkFixUiContainerCoverAds": "true",
     "DFIntProductInfoBatchingMaxSize_PlaceFilter": "1;109983668079237;96342491571673",
-    "FFlagEnablePreferredTextSizeStyleFixesInAvatarExp4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1119579434;2025-09-29T16:49:41",
     "FFlagEnableV2SquadJoinButton_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:54:39",
     "AllowVideoPreRoll": true,
     "FFlagFixGameGridCompactMetadataCheck_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1928622138;2025-09-29T16:55:42",
@@ -12201,6 +12200,7 @@
     "FFlagRemoveServiceEfficiencyAvatarGeneration": true,
     "FFlagUpdateInsertGuiActionsContextually_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:44:21",
     "FFlagStudioFixCurrentDocWithFloatingWindows": true,
+    "FFlagEnablePreferredTextSizeStyleFixesInAvatarExp4": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -13173,8 +13173,8 @@
     "FFlagExpChatSendLoadSuccessEvent": true,
     "FFlagTextChatFixTelemetryFields": true,
     "FFlagTextChatMoveTextSourceAdded": true,
-    "FStringFlagRepoGitHashFastString": "4a6245fd9258f7ad54d76651a144e9e4cd08b6d1",
-    "DFStringFlagRepoGitHashDynamicString": "4a6245fd9258f7ad54d76651a144e9e4cd08b6d1",
-    "FStringFlipTimeStampFastString": "2025-09-29T17:47:19.292Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-29T17:47:19.292Z"
+    "FStringFlagRepoGitHashFastString": "d1faf6af87d509b726d94248ecb8f63198504104",
+    "DFStringFlagRepoGitHashDynamicString": "d1faf6af87d509b726d94248ecb8f63198504104",
+    "FStringFlipTimeStampFastString": "2025-09-29T17:52:24.846Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-29T17:52:24.846Z"
 }
