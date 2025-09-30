@@ -12287,6 +12287,10 @@
     "FFlagAudioPlayerFixOverlappingSongs": true,
     "FFlagMusicPlayerCompactVariant": true,
     "DFFlagEnableScreenTimeLockoutEviction_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:15:46",
+    "FFlagEnableScreentimeMoreTimeOption_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:17:45",
+    "FFlagAvatarAutosetupProgressWithETA_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:19:45",
+    "FFlagBaseHandleTransparency_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;133286104;2025-09-30T17:20:48",
+    "FFlagAvatarPreviewerFixProgressTextTruncate_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:22:06",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent": 60,
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": true,
     "FFlagVoxelGridFixUpsample": true,
@@ -13245,8 +13249,8 @@
     "FFlagTerrainOneTouch690": true,
     "FFlagPCGDKSwitchMultiplayerPrivilegeCall": true,
     "FFlagSimSolverUseStaticUIDGenerator2": true,
-    "FStringFlagRepoGitHashFastString": "d4df7f06efc8de3ff112c2a899f7c8d0573f2d8b",
-    "DFStringFlagRepoGitHashDynamicString": "d4df7f06efc8de3ff112c2a899f7c8d0573f2d8b",
-    "FStringFlipTimeStampFastString": "2025-09-30T17:20:27.618Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-30T17:20:27.618Z"
+    "FStringFlagRepoGitHashFastString": "14013b8c11aa21237aa6dac1f38eb1c04e48c533",
+    "DFStringFlagRepoGitHashDynamicString": "14013b8c11aa21237aa6dac1f38eb1c04e48c533",
+    "FStringFlipTimeStampFastString": "2025-09-30T17:23:38.639Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-30T17:23:38.639Z"
 }
