@@ -12374,7 +12374,6 @@
     "FFlagFixPopMouseIcon": true,
     "FFlagUseFallbackWindowsDPI": true,
     "FFlagViewportDisplaySizeAPI2BetaFeature": true,
-    "DFFlagRenderBeamSegmentAlphaFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:02:58",
     "FFlagLuauUnfinishedRepeatAncestryFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:13:59",
     "FFlagStudioDeviceEmulatorDisplaySizeInitialization_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:29:09",
     "FFlagMacDisplaySizeInternalDisplayFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:29:28",
@@ -12391,6 +12390,7 @@
     "DFFlagUseFastMat33": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagExplorerExposeDoubleClick_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T23:04:52",
+    "DFFlagRenderBeamSegmentAlphaFix": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagEnableAdsMouseUnlock": true,
@@ -13332,9 +13332,9 @@
     "FIntEnableCVSUrlForOtaPatchPercentage": 100,
     "FFlagPCGDKSwitchMultiplayerPrivilegeCall": true,
     "FFlagAXSlotsDesktopCrashFix": true,
-    "FFlagCeaseUAPresenceRealtimeNotificationUpdatesInGameV2": true,
-    "FStringFlagRepoGitHashFastString": "d760bb8e2f5c39111b687585deaab974b9803faa",
-    "DFStringFlagRepoGitHashDynamicString": "d760bb8e2f5c39111b687585deaab974b9803faa",
-    "FStringFlipTimeStampFastString": "2025-10-01T23:06:52.541Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-01T23:06:52.541Z"
+    "FFlagCeaseUAPresenceRealtimeNotificationUpdatesInGameV2": false,
+    "FStringFlagRepoGitHashFastString": "d8dc5e9050e1321e4d1d7e941fdfd517169da6cd",
+    "DFStringFlagRepoGitHashDynamicString": "d8dc5e9050e1321e4d1d7e941fdfd517169da6cd",
+    "FStringFlipTimeStampFastString": "2025-10-01T23:14:46.045Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-01T23:14:46.045Z"
 }
