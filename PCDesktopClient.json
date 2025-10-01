@@ -12390,6 +12390,7 @@
     "FFlagKillDropperAction_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:55:45",
     "DFFlagUseFastMat33": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "FFlagExplorerExposeDoubleClick_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T23:04:52",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagEnableAdsMouseUnlock": true,
@@ -12866,6 +12867,7 @@
     "DFFlagEnableRecommendationDetailedErrors": true,
     "DFFlagSolverV2NoModelModeChangesFromNonWorkspaceContainer": true,
     "FFlagAXHidePBRInfoRowOnAnimatedBudles_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:35:11",
+    "DFFlagCLI169724UseOAEnumValuesForPublishService_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T23:02:55",
     "CaptureQTStudioCountersEnabled": true,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
     "DFFlagEnableRemoteProfiling": true,
@@ -13331,8 +13333,8 @@
     "FFlagPCGDKSwitchMultiplayerPrivilegeCall": true,
     "FFlagAXSlotsDesktopCrashFix": true,
     "FFlagCeaseUAPresenceRealtimeNotificationUpdatesInGameV2": true,
-    "FStringFlagRepoGitHashFastString": "a85bb00e64d0bf821f8ad1c3409639efafef9fe5",
-    "DFStringFlagRepoGitHashDynamicString": "a85bb00e64d0bf821f8ad1c3409639efafef9fe5",
-    "FStringFlipTimeStampFastString": "2025-10-01T23:02:57.575Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-01T23:02:57.575Z"
+    "FStringFlagRepoGitHashFastString": "d760bb8e2f5c39111b687585deaab974b9803faa",
+    "DFStringFlagRepoGitHashDynamicString": "d760bb8e2f5c39111b687585deaab974b9803faa",
+    "FStringFlipTimeStampFastString": "2025-10-01T23:06:52.541Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-01T23:06:52.541Z"
 }
