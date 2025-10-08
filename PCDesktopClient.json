@@ -12240,6 +12240,7 @@
     "DFFlagEnableRecommendationDetailedErrors": true,
     "DFFlagParseDepartureIntentAsEnum": true,
     "FFlagMakeupUVBoundsStretchAfterCrop": true,
+    "DFFlagEnableContentTypeInRegister_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T23:28:42",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -13186,8 +13187,8 @@
     "FFlagSquadEnabled": true,
     "FFlagPCGDKPaymentsProtocolCleanupCalls": true,
     "FFlagLuaAppEnableWindowsHandheldTokenScale": true,
-    "FStringFlagRepoGitHashFastString": "a17f36a568c7b842171920a03eb71c5b2f3407f3",
-    "DFStringFlagRepoGitHashDynamicString": "a17f36a568c7b842171920a03eb71c5b2f3407f3",
-    "FStringFlipTimeStampFastString": "2025-10-08T23:26:16.499Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-08T23:26:16.499Z"
+    "FStringFlagRepoGitHashFastString": "407d6bdf1f1e14efba4a76b68152b1ab8b38095b",
+    "DFStringFlagRepoGitHashDynamicString": "407d6bdf1f1e14efba4a76b68152b1ab8b38095b",
+    "FStringFlipTimeStampFastString": "2025-10-08T23:32:01.575Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-08T23:32:01.575Z"
 }
