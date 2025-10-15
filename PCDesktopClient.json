@@ -12431,7 +12431,6 @@
     "FFlagVideoAllCapturesBlacklistForGPUs": true,
     "FFlagVideoRodeoCapturesBlacklistForGPUs": true,
     "FFlagAXUpdateInventoryEndpointForItemsList": true,
-    "DFFlagHttpConnectionReuseStatFixes_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T22:42:50",
     "FFlagCanvasGroupRenderStrokeOnTop_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T22:59:47",
     "FFlagFixPlayOnRemoveOnExit": true,
     "FFlagAXEnableRegionalFilteringofAssets": true,
@@ -12442,6 +12441,9 @@
     "FFlagMakeupUVBoundsFixCageDefault": true,
     "FFlagTextureTransferCageCheckUpdates": true,
     "FFlagUGCValidateCheckHSROwner": true,
+    "FFlagAXCatalogStoresContext_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T23:43:12",
+    "DFFlagEnablePlayerRemovingReason_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T23:45:20",
+    "DFFlagHttpConnectionReuseStatFixes": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -13387,8 +13389,8 @@
     "FFlagAXImproveSlotBasedEditorPerformance_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;193760623;dev_controlled",
     "FFlagQuestNESO": true,
     "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
-    "FStringFlagRepoGitHashFastString": "fa4a0da7da8ec754e84791d5e77bd217a034dc99",
-    "DFStringFlagRepoGitHashDynamicString": "fa4a0da7da8ec754e84791d5e77bd217a034dc99",
-    "FStringFlipTimeStampFastString": "2025-10-15T23:47:29.828Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-15T23:47:29.828Z"
+    "FStringFlagRepoGitHashFastString": "2a27655ca499ce018ab76359dbde7226ad6a53af",
+    "DFStringFlagRepoGitHashDynamicString": "2a27655ca499ce018ab76359dbde7226ad6a53af",
+    "FStringFlipTimeStampFastString": "2025-10-15T23:55:16.401Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-15T23:55:16.401Z"
 }
