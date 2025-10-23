@@ -12787,6 +12787,7 @@
     "FFlagAMVRendererUseProtobuf": true,
     "FFlagCLI156525": true,
     "FFlagWindowsCheckTabletMode": true,
+    "FFlagEnableHoldToPlayOnShortcutBar_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1572079200;2025-10-23T21:12:05",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagEnableAdsMouseUnlock": true,
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13756,8 +13757,8 @@
     "FFlagAXMigrateAXFocusBehaviorRoot": true,
     "DFIntSimSolverWakeDisplacementMultiplier_PlaceFilter": "200;102669905873657;95110357124286;74420304866897;112408689884212",
     "FFlagAXMigrateAXFocusBehaviorRoot_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:41:16",
-    "FStringFlagRepoGitHashFastString": "7fc598854268e4b59760df658899aa707e34ec11",
-    "DFStringFlagRepoGitHashDynamicString": "7fc598854268e4b59760df658899aa707e34ec11",
-    "FStringFlipTimeStampFastString": "2025-10-23T21:14:19.042Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-23T21:14:19.042Z"
+    "FStringFlagRepoGitHashFastString": "2323f868b9d1ae50f49520c523800fde0d87f4b8",
+    "DFStringFlagRepoGitHashDynamicString": "2323f868b9d1ae50f49520c523800fde0d87f4b8",
+    "FStringFlipTimeStampFastString": "2025-10-23T21:18:09.737Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-23T21:18:09.737Z"
 }
