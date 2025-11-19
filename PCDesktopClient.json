@@ -13605,7 +13605,6 @@
     "FFlagEnableRefactorGoogleAdViewControlsFadeLogic": true,
     "FFlagStyleEditorPluginStyleSheets2": true,
     "FFlagSetUniverseWithPlaceAndDC2": true,
-    "FFlagUseTextureTranscoderClientConfig_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T19:17:32",
     "FFlagEnableAdCtaUseNewTouchListener": true,
     "FFlagAXMigratePeekViewToFocusNavigation": true,
     "FFlagAXMigratePurchasePromptInteractiveToFocusNavigation2": true,
@@ -13617,6 +13616,7 @@
     "FFlagAXMigrateReportAvatarEventCounter2": true,
     "DFFlagVoiceChatRoomCreationOnFirstUserJoin_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2128335163;2025-11-19T20:02:42",
     "FFlagUseNewDiscoverabilityModal_v2": true,
+    "FFlagUseTextureTranscoderClientConfig": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -14692,8 +14692,8 @@
     "FFlagMeshManagerAvoidVTableFix": true,
     "FFlagLuaAppAddAvailRamToVideoBlockingTelemetry": true,
     "FFlagSlimProfileTelemetry": true,
-    "FStringFlagRepoGitHashFastString": "5c4297a228d762a7a96c8cb755d9ed4c971d7773",
-    "DFStringFlagRepoGitHashDynamicString": "5c4297a228d762a7a96c8cb755d9ed4c971d7773",
-    "FStringFlipTimeStampFastString": "2025-11-19T20:18:19.086Z",
-    "DFStringFlipTimeStampDynamicString": "2025-11-19T20:18:19.086Z"
+    "FStringFlagRepoGitHashFastString": "94d42ec4801dede72e4affbba1034297961ed3b9",
+    "DFStringFlagRepoGitHashDynamicString": "94d42ec4801dede72e4affbba1034297961ed3b9",
+    "FStringFlipTimeStampFastString": "2025-11-19T20:22:07.665Z",
+    "DFStringFlipTimeStampDynamicString": "2025-11-19T20:22:07.665Z"
 }
